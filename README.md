@@ -1,6 +1,7 @@
 # EVA4_Assignment_5
 
 Code:1  
+https://colab.research.google.com/drive/1LOOOYi-egbsig0H0PP0R_x6wXOINydLr  
 Target:  
 1)To reduce the parameters from the 13k  
 2)We reduce it by using less initial filters  
@@ -12,6 +13,7 @@ Analysis:
 The drastic reduction of parameters has reduced the ability to describe the features probably.  
 
 Code:2  
+https://colab.research.google.com/drive/1cdQOsSeIInN2ZkWwLghOHWBK8qDuyPxR  
 
 Target:  
 
@@ -29,6 +31,7 @@ Analysis:
 Removing dropout did not help much
 
 Code:5  
+https://colab.research.google.com/drive/1AaUPUyplphbGhWk7PncRgr35Zu-i56hz  
 Target:  
 1)Using Lr sheduler to guide the step towards convergence  
 
